@@ -2,8 +2,8 @@
 
 Logic Operation:
 - Negation: 
-- Conjunction (And): &&
-- Disjunction (Or): ||, v
+- Conjunction (And): &&, ∧
+- Disjunction (Or): ||, ∨
 
 With && (If both are true):
 - FF: False
